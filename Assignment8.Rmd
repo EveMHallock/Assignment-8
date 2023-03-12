@@ -1,0 +1,47 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Eve Hallock<br>eveh@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction 
+
+## About me | Personal 
+
+-Born in Colorado, USA
+
+-Favorite foods: Vegetable soups, kiwis, berries, red wine, green tea, breakfast burritos, chocolate, hot dogs 
+
+-Favorite animals: Bristle-thighed Curlews, Skunks, Spotted Toby, Hummingbirds, Grackles, Chipmunks, Moose, Sturgeon, Crayfish, Nudibranchs 
+
+## About me | Academic 
+
+-B.A.s from Cornell University 
+
+-Majors and Focus: Anthropology, Latin American Art History, Ethics
+
+# Data Science 
+
+## Course Topics | 3 things I enjoyed learning about
+
+  1. Relational Databases using pgAdmin/SQL
+  2. R Markdown notation and knitting 
+  3. Using repositories on GitHub
+  
+## Course Topics | 3 things I'd like to learn more about
+
+  1. Relational Databases with regularly updating datasets
+  2. Tidyverse
+  3. R Markdown for dissertation writing 
+  
+## {data-background=img.png data-background-size=cover}
+  
+
+
+
+
